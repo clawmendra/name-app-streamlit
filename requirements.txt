@@ -21,7 +21,7 @@ Babel==2.13.1
 beautifulsoup4==4.12.2
 bleach==6.1.0
 blinker==1.8.2
-boltons @ file:///Users/ec2-user/ci_py311/boltons_1678396074811/work
+
 botocore==1.34.155
 brotlipy==0.7.0
 byu-pytest-utils==0.7.2
